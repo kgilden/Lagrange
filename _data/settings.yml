@@ -2,7 +2,7 @@ title: Kristen Gilden
 tagline: a personal blog
 author:
   name: 'Kristen Gilden'
-  twitter: kgilden
+  twitter: k_gilden
 
 # Change to true for Disqus comments
 disqus:
@@ -19,7 +19,7 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://www.github.com/kgilden'}
-- {icon: 'twitter', link: 'https://twitter.com/kgilden'}
+- {icon: 'twitter', link: 'https://twitter.com/k_gilden'}
 - {icon: 'facebook', link: 'https://facebook.com/kristen.gilden'}
 - {icon: 'envelope', link: 'mailto:kristen.gilden+blog@gmail.com'}
 
