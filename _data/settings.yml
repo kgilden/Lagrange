@@ -1,15 +1,16 @@
-title:  Lagrange
-tagline:  a minimalist Jekyll theme
+title:  Kristen Gilden
+tagline:  A personal Blog
 author:
-  name: 'Paul Le'
-  twitter:  paululele
+  name: 'Kristen Gilden'
+  twitter:  kgilden
 
 # Change to true for Disqus comments
 disqus:
   comments: false
   disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
-google-ID: 'UA-80213386-1'
+# @todo should I set it up?
+# google-ID: 'UA-80213386-1'
 
 menu:
 - {name: 'About', url: 'about.html'}
@@ -17,10 +18,9 @@ menu:
 - {name: 'Contact', url: 'contact.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'github', link: 'https://www.github.com/kgilden'}
+- {icon: 'twitter', link: 'https://twitter.com/kgilden'}
+- {icon: 'facebook', link: 'https://facebook.com/kristen.gilden'}
+- {icon: 'envelope', link: 'mailto:kristen.gilden+blog@gmail.com'}}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

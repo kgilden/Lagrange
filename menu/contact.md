@@ -3,4 +3,6 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Feel free to keep in touch! You can contact me by either
+[tweeting at me](https://twitter.com/intent/tweet?text=%40kgilden) or simply
+[sending an e-mail](mailto:kristen.gilden+blog@gmail.com).
