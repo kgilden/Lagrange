@@ -1,5 +1,5 @@
 title: Kristen Gilden
-tagline: A personal Blog
+tagline: a personal blog
 author:
   name: 'Kristen Gilden'
   twitter: kgilden
@@ -21,6 +21,6 @@ social:
 - {icon: 'github', link: 'https://www.github.com/kgilden'}
 - {icon: 'twitter', link: 'https://twitter.com/kgilden'}
 - {icon: 'facebook', link: 'https://facebook.com/kristen.gilden'}
-- {icon: 'envelope', link: 'mailto:kristen.gilden+blog@gmail.com'}}
+- {icon: 'envelope', link: 'mailto:kristen.gilden+blog@gmail.com'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
