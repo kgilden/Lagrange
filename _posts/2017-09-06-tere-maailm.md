@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, world!"
+title: "Tere, maailm!"
 author: "Kristen Gilden"
 categories: ~
 tags: ~
