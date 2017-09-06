@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tere, maailm!'
-author: '{{ author.name }}'
+author: Kristen Gilden
 categories: ~
 tags: ['et']
 ---
