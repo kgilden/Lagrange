@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Tere, maailm!"
-author: "Kristen Gilden"
+title: 'Tere, maailm!'
+author: '{{ author.name }}'
 categories: ~
-tags: ~
+tags: ['et']
 ---
 
 Tervist! Otsustasin lõpuks end kokku võtta ja blogi pidama hakata. Vähemalt
