@@ -426,3 +426,12 @@ pre {
 .fa-codepen:hover {
 	color: black;
 }
+
+
+/*
+  My custom styling
+*/
+.captioned + em {
+  display: block;
+  text-align: center;
+}
