@@ -9,8 +9,7 @@ disqus:
   comments: true
   disqus_shortname: 'kg-personal-blog'
 
-# @todo should I set it up?
-# google-ID: 'UA-80213386-1'
+google-ID: 'UA-107693311-1'
 
 menu:
 - {name: 'About', url: 'about.html'}
